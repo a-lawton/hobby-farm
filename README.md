@@ -1,5 +1,4 @@
 # Hobby Farm
-### Video Demo:  <https://youtu.be/hiDGYX5EMK8>
 ### Description:
     Hobby Farm is a game written in Python, to simulate the journey of establishing a hobby farm. The user has a maximum amount of hearts that they can expend during the day. Hearts are used by selecting actions, such as planting wheat or unlocking cows. Available options change dynamically depending on the farmers choices, such as whether the player has unlocked chickens or cows.
 

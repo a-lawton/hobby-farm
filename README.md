@@ -21,7 +21,7 @@
 #### Design Decisions:
     I didn't love the look of the user's selection displaying in the console and wanted to print out something a little more user friendly instead which is why I ended up using the python library getpass instead of input.
 
-    Additionally, I added in some separator lines, a python library "time" for small periods of delay and a pip-installable library "cowsay" for some graphics. I wanted it to feel as user friendly as I could, while still using the terminal for the game. In the future, I would love to learn more about graphic, UI and how to beautify the game more.
+    Additionally, I added in some separator lines, a python library "time" for small periods of delay and a pip-installable library "cowsay" for some graphics. I wanted it to feel as user-friendly as I could, while still using the terminal for the game. In the future, I would love to learn more about graphic, UI and how to beautify the game more.
 
 ### Files:
     This project consists of the following files and key functions.
@@ -47,6 +47,3 @@
 
 #### **README.md**
   This file breaks down what Hobby Farm is, how it works, what all of the files are for and some of the design decisions.
-
-
-    Your README.md file should be minimally multiple paragraphs in length, and should explain what your project is, what each of the files you wrote for the project contains and does, and if you debated certain design choices, explaining why you made them. Ensure you allocate sufficient time and energy to writing a README.md that documents your project thoroughly. Be proud of it! A README.md in the neighborhood of 500 words is likely to be sufficient for describing your project and all aspects of its functionality. If unable to reach that threshold, that probably means your project is insufficiently complex.
